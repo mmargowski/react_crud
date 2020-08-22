@@ -1,3 +1,9 @@
+This app uses okta.com for authentificating. 
+For authentification to work you have to create a .env file and set 
+REACT_APP_OKTA_CLIENT_ID=<ID>
+REACT_APP_OKTA_ORG_URL=<server>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
